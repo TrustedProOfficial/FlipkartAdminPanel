@@ -26,6 +26,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "TrustedPro": {
+      "hwid": "RESET",
+      "expireDate": "2026-05-31",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Free User"
     }
   }
 }
