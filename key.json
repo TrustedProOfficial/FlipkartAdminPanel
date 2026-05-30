@@ -19,5 +19,13 @@
     "updateUrl": "https://t.me/dpmodsdialog"
   },
   "BannedHWIDs": {},
-  "Keys": {}
+  "Keys": {
+    "DPMods-T35R19": {
+      "hwid": "RESET",
+      "expireDate": "2026-05-31",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
+    }
+  }
 }
