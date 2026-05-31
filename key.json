@@ -19,13 +19,5 @@
     "updateUrl": "https://t.me/TrustedProMods"
   },
   "BannedHWIDs": {},
-  "Keys": {
-    "TrustedPro": {
-      "hwid": "RESET",
-      "expireDate": "2026-06-01",
-      "isBanned": false,
-      "banReason": "",
-      "userRank": "Free User"
-    }
-  }
+  "Keys": {}
 }
