@@ -26,13 +26,6 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Free User 3pm"
-    },
-    "Tp-Free": {
-      "hwid": "RESET",
-      "expireDate": "2026-06-01",
-      "isBanned": false,
-      "banReason": "",
-      "userRank": "3pm Free User"
     }
   }
 }
